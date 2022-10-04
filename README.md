@@ -5,7 +5,7 @@ Utilize Tableau for bike sharing program
 
 ## Results
 
-The Tableau Story can be seen by clicking on this link: (https://public.tableau.com/app/profile/david.b.schultz/viz/Bike_Challenge_16647409152970/BikeSharinginNYC).  Analysis is also provided below highlighting the bikesharing program in NYC.
+The Tableau Story can be seen by clicking on [my Tableau link](https://public.tableau.com/app/profile/david.b.schultz/viz/Bike_Challenge_16647409152970/BikeSharinginNYC).  Analysis is also provided below highlighting the bikesharing program in NYC.
 
 
 ![Checkout%20Time%20for%20Users.png](https://github.com/dschul01/Bikesharing/blob/main/Images/Checkout%20Time%20for%20Users.png)
