@@ -5,7 +5,7 @@ Utilize Tableau for bike sharing program
 
 ## Results
 
-The Tableau Story can be seen by clicking on [my Tableau link](https://public.tableau.com/app/profile/david.b.schultz/viz/Bike_Challenge_16647409152970/BikeSharinginNYC).  Analysis is also provided below highlighting the bikesharing program in NYC.
+The decision to initiate a bike sharing program in Des Moines, Iowa was based on analysis from the NYC program.  The NYC bike share analysis can be viewed within [my Tableau story](https://public.tableau.com/app/profile/david.b.schultz/viz/Bike_Challenge_16647409152970/BikeSharinginNYC).  Analysis is also provided below highlighting the bikesharing program in NYC.
 
 
 ![Checkout%20Time%20for%20Users.png](https://github.com/dschul01/Bikesharing/blob/main/Images/Checkout%20Time%20for%20Users.png)
@@ -23,10 +23,5 @@ The Tableau Story can be seen by clicking on [my Tableau link](https://public.ta
 ![August%20Peak%20Hours.png](https://github.com/dschul01/Bikesharing/blob/main/Images/August%20Peak%20Hours.png)
 
 
-
-
-
-
-
-
 ## Summary
+There should be additional analysis on financial data before moving forward with the Des Moines Bike Sharing program.  However, NYC does show a significant volume of casual and subcription users utilizing the service.  Two additional visualizations suggested would be to look at ...................
