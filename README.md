@@ -3,11 +3,10 @@ Utilize Tableau to provide visualizations and analysis on a bike sharing program
 
 ## Purpose
 
-The purposed of this project is to utilize Tableau to provide investors a view into how the CitiBike share program works in New York City in order to implement a simliar model in Des Moines, IA.  
-Trip data from the CitiBike program collected during Aug'19 is the source behind the visualizations for this project.  Summer data is used as it likely contains the most data with good weather and tourism.  The Tableau story 
-provides multiple charts which answers multiple questions investors would have when taking on such an adventure.  Details behind the story charts are seen in the [Results](##-Results).
+The purpose of this project is to utilize Tableau to provide investors a view into how the CitiBike share program works in New York City in order to implement a simliar model in Des Moines, IA.  Trip data from the CitiBike program collected during Aug'19 is the source behind the visualizations for this project.  Summer data is used as it likely contains the most data due to pleasant weather to entice locals to bike as well as tourists.  The Tableau story 
+provides multiple charts which answers multiple questions investors would have when taking on such an adventure.  Details behind the story charts are seen in the [Results](##Results) section.
 
-## <a name="Results"></a> Results
+##<a name="Results"></a> Results
 
 The decision to initiate a bike sharing program in Des Moines, Iowa was based on analysis from the NYC program.  The NYC bike share analysis can be viewed within [my Bike Analysis Tableau story](https://public.tableau.com/app/profile/david.b.schultz/viz/Bike_Challenge_16647409152970/BikeSharinginNYC).  Analysis is also provided below highlighting the bikesharing program in NYC.
 
